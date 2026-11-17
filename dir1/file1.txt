@@ -1,1 +1,1 @@
-Initial line in file1
+Updated in newbranch: file1
