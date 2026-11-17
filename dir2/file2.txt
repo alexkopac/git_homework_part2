@@ -1,1 +1,1 @@
-Initial line in file2
+Conflicting change in master: file2
