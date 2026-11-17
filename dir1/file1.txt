@@ -1,1 +1,1 @@
-Conflicting change in master: file1
+Resolved file1: newbranch + master
