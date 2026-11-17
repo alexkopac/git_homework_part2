@@ -1,1 +1,1 @@
-Updated in newbranch: file2
+Resolved file2: newbranch + master
